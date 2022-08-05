@@ -4,14 +4,5 @@ url: https://laznp.id
 author: "Lazuardi N Putra"
 email: me@laznp.id
 instagram_username: papa.gondrong
-telegram_username: laznp
-linkedin_username: https://www.linkedin.com/in/lazuardi-np/
+linkedin_username: lazuardi-np
 github_username: laznp
-theme: minima
-minima:
-  date_format: "%Y-%m-%d"
-  skin: dark
-include:
-  - pages
-exclude: 
-  - .gitignore
