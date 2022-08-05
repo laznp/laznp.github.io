@@ -3,13 +3,16 @@ description: Personal Blog
 author: 
   name: "Lazuardi N Putra"
   email: me@laznp.id
-  instagram: papa.gondrong
-  telegram: laznp
-  linkedin: https://www.linkedin.com/in/lazuardi-np/
+
+
 theme: minima
 minima:
   date_format: "%Y-%m-%d"
   skin: dark
+  social_links:
+    instagram: papa.gondrong
+    telegram: laznp
+    linkedin: https://www.linkedin.com/in/lazuardi-np/
 include:
   - pages
 exclude: 
