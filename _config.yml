@@ -1,3 +1,11 @@
 title: Lazuardi N Putra
 description: Personal Blog
-theme: jekyll-theme-midnight
+author: "Lazuardi N Putra"
+theme: minima
+minima:
+  date_format: "%Y-%m-%d"
+  skin: dark
+include:
+  - pages
+exclude: 
+  - .gitignore
