@@ -2,4 +2,4 @@
 permalink: /example
 ---
 
-### testing page
+# **Example Title**
