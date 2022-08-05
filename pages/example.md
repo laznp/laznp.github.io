@@ -1,5 +1,0 @@
----
-permalink: /example
----
-
-# **Example Title**
