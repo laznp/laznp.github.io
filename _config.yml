@@ -1,18 +1,16 @@
 title: Lazuardi N Putra
 description: Personal Blog
-author: 
-  name: "Lazuardi N Putra"
-  email: me@laznp.id
-
-
+url: https://laznp.id
+author: "Lazuardi N Putra"
+email: me@laznp.id
+instagram_username: papa.gondrong
+telegram_username: laznp
+linkedin_username: https://www.linkedin.com/in/lazuardi-np/
+github_username: laznp
 theme: minima
 minima:
   date_format: "%Y-%m-%d"
   skin: dark
-  social_links:
-    instagram: papa.gondrong
-    telegram: laznp
-    linkedin: https://www.linkedin.com/in/lazuardi-np/
 include:
   - pages
 exclude: 
