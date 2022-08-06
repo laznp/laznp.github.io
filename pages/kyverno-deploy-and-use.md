@@ -125,7 +125,7 @@ spec:
     generate:
       kind: Secret
       name: regcred
-      namespace: {{ "{{request.object.metadata.name}}" }}
+      namespace: "\{\{request.object.metadata.name\}\}"
       synchronize: true
       clone:
         namespace: default
