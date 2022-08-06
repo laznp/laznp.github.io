@@ -68,7 +68,7 @@ spec:
           - default
     preconditions:
       all:
-      - key: "{{request.operation}}"
+      - key: {% raw %}"{{request.operation}}"{% endraw %}
         operator: Equals
         value: UPDATE
     mutate:
@@ -82,7 +82,7 @@ spec:
           template:
             metadata:
               annotations:
-                deployment-version: "{{request.object.metadata.resourceVersion}}"
+                deployment-version: {% raw %}"{{request.object.metadata.resourceVersion}}"{% endraw %}
 
 ```
 Apply with `kubectl -f autorestart-deployment-policy.yaml`
