@@ -128,6 +128,6 @@ You'll get this kind of output
   }
 ]
 ```
-As you can see, Kubesec tell us which line that possibly against security policy
+As you can see, Kubesec tell us which line that possibly against security policy and give us some advice to using Kubernetes Best Practices
 
 For further information you can refer to [Kubesec](https://kubesec.io/) official documentation
