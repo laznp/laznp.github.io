@@ -163,4 +163,4 @@ Data
 ```
 As you can see, kyverno automatically sync the secret from `default` namespace to our new created namespace.
 
-There is still many example policy Kyverno, you can check on their official document on [Kyverno](https://kyverno.io/policies/). Or you can create your own policy to harden you Kubernetes Cluster.
+There are still many example policy Kyverno, you can check on their official document on [Kyverno](https://kyverno.io/policies/). Or you can create your own policy to harden you Kubernetes Cluster.

@@ -149,6 +149,6 @@ nginx-9f6485cfd-v4mcx    1/1     Running       0          4s
 ```
 
 That is all we need to do if we want to auto restart deployment on every secret changes. 
-There is still many example policy Kyverno, you can check on their official document on [Kyverno](https://kyverno.io/policies/). Or you can create your own policy to harden you Kubernetes Cluster.
+There are still many example policy Kyverno, you can check on their official document on [Kyverno](https://kyverno.io/policies/). Or you can create your own policy to harden you Kubernetes Cluster.
 
 If you are not using kyverno, you can check another project called [Reloader](https://github.com/stakater/Reloader) with same purpose for restarting deployment on changed secret/configmap.
