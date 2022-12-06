@@ -8,9 +8,9 @@ permalink: /dockerizing-flask-app
 
 To complete this tutorial, you will need the following:
 
-• Docker installed on your computer
-• A text editor for writing code
-• A basic knowledge of Python
+- Docker installed on your computer
+- A text editor for writing code
+- A basic knowledge of Python
 
 ## Create a Basic Flask App
 
