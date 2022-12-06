@@ -6,3 +6,4 @@ Hi there! Glad you found this notes! My name is Laz and I hope everything that I
 - [Restart Deployment on Secret Change with Kyverno](/restart-deployment-on-secret-change-using-kyverno)
 - [Security Analysis with Kubesec](/security-analysis-kubesec)
 - [Dockerizing Flask App](/dockerizing-flask-app)
+- [Install BSPWM on Arch Linux](/install-bspwm-archlinux)
