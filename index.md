@@ -8,3 +8,4 @@ Hi there! Glad you found this notes! My name is Laz and I hope everything that I
 - [Dockerizing Flask App](/dockerizing-flask-app)
 - [Install BSPWM on Arch Linux](/install-bspwm-archlinux)
 - [Deploy K3s Cluster](/kubernetes-using-k3s)
+- [Install K9s Mac/Linux](/install-k9s-mac-linux)
