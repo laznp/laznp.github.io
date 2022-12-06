@@ -5,3 +5,4 @@ Hi there! Glad you found this notes! My name is Laz and I hope everything that I
 - [Install and Create Policy for Kyverno](/deploy-and-use-kyverno)
 - [Restart Deployment on Secret Change with Kyverno](/restart-deployment-on-secret-change-using-kyverno)
 - [Security Analysis with Kubesec](/security-analysis-kubesec)
+- [Dockerizing Flask App](/dockerizing-flask-app)
